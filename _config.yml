@@ -86,7 +86,7 @@ comments:
   provider: "facebook"
   facebook:
     appid: 666515885079035
-    num_posts: # 5 (default)
+    num_posts: # 5
     colorscheme: # "light" (default), "dark"
 
 defaults:
