@@ -57,9 +57,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Hashtag & Captions"
   avatar : "/assets/images/bio.jpeg"
-  bio    : "Make your social posts more engaging, likable, and appealing. Use the best hashtags and captions we drafted just for your style."
+  bio    : "Make your social posts more engaging, likable, and appealing. 
+  
+          Use the best hashtags and captions we drafted just for your style."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -90,7 +92,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: truesocial
       related: true
   # _pages
   - scope:
