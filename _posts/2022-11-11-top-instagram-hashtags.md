@@ -1,5 +1,6 @@
 ---
 title: "Top 50 instagram hashtags and their siblings"
+permalink: /post/top-50-instagram/
 categories:
   - Blog
 tags:

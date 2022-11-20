@@ -5,3 +5,22 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+
+docs:
+  - title: Hashtags
+    children:
+      - title: "Quick-Start Guide"
+        url: /post/top-50-instagram/
+
+  - title: Captions
+    children:
+      - title: "Configuration"
+        url: /docs/configuration/
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: "Authors"
+        url: /docs/authors/
+      - title: "Layouts"
+        url: /docs/layouts/
