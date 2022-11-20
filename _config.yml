@@ -115,3 +115,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Analytics
+analytics:
+  provider               : "google-universal"
+  google:
+    tracking_id          : "G-71KGPRTGVY" # Replace this with your ID, or delete
+    anonymize_ip         : true
