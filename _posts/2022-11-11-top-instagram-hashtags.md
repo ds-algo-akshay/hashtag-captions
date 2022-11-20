@@ -6,6 +6,8 @@ categories:
 tags:
   - instagram
   - hashtag
+toc: true
+toc_sticky: true
 ---
 
 Below are the top Instagram hashtags! Use them as your post's main hashtags, and add a few specific hashtags as applicable.
