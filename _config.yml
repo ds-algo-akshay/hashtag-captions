@@ -120,5 +120,5 @@ tag_archive:
 analytics:
   provider               : "google-universal"
   google:
-    tracking_id          : "G-71KGPRTGVY" # Replace this with your ID, or delete
+    tracking_id          : "UA-250090164-1"
     anonymize_ip         : true
