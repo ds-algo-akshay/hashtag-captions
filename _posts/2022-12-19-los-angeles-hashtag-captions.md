@@ -6,8 +6,6 @@ categories:
 tags:
   - Los Angeles
   - City Life
-toc: true
-toc_sticky: true
 toc_label: "Los Angeles!!"
 ---
 
