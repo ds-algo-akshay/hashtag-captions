@@ -10,10 +10,11 @@ toc: true
 toc_sticky: true
 ---
 
+## Instagram
+
 Instagram is a popular social media platform that allows users to share photos and videos with their followers. If you're looking to boost your engagement on Instagram, using the right hashtags and crafting catchy captions can be a great way to attract more likes and comments. Here are 50 hashtags and caption ideas to consider using on your Instagram posts:
 
 Below are the top Instagram hashtags! Use them as your post's main hashtags, and add a few specific hashtags as applicable.
-
 
 **Note:** Feel free copy and use in your posts! 
 {: .notice--info}
@@ -72,7 +73,7 @@ Below are the top Instagram hashtags! Use them as your post's main hashtags, and
 | **#cat**             |                   |                   |
 
 
-**Hashtags:**
+## Hashtags:
 
 * #Instagram: This is the most obvious hashtag to use when sharing photos on Instagram.
 * #IG: This acronym is commonly used as a shorthand for Instagram, and it's a popular hashtag to use when sharing photos and stories from the platform.
@@ -81,7 +82,7 @@ Below are the top Instagram hashtags! Use them as your post's main hashtags, and
 * #Instagrammer: This hashtag is similar to #Instagrammers, but it's used to describe a single user rather than a group.
 
 
-**Captions:**
+## Captions:
 
 "Feeling inspired by the creativity on #Instagram"
 
@@ -153,7 +154,7 @@ Below are the top Instagram hashtags! Use them as your post's main hashtags, and
 
 "Finding inspiration in the beauty
 
-**Now Trending HashTags**
+### Now Trending HashTags
 
 Instagram is a constantly evolving platform, and what's popular on the platform can change quickly. That being said, here are a few hashtags that are currently popular on Instagram:
 
@@ -178,7 +179,7 @@ Instagram is a constantly evolving platform, and what's popular on the platform 
 #Style: This hashtag is popular with users who are sharing photos of their personal style or looking for fashion inspiration.
 
 
-**All time trending hashtags**
+# All time trending hashtags
 ```
 #love
 #instagood
