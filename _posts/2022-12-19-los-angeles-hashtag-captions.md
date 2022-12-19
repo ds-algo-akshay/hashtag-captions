@@ -9,8 +9,11 @@ tags:
 toc_label: "Los Angeles!!"
 
 gallery:
-- url: /assets/images/city/LA1.jpg
-  image_path: /assets/images/city/LA1.jpg
+- url: /assets/images/city/LA3.jpg
+  image_path: /assets/images/city/LA3.jpg
+  title: "LA"
+- url: /assets/images/city/LA4.jpg
+  image_path: /assets/images/city/LA4.jpg
   title: "LA"
 - url: /assets/images/city/LA2.jpg
   image_path: /assets/images/city/LA2.jpg
@@ -22,7 +25,7 @@ Los Angeles, often referred to simply as L.A., is the second most populous city 
 
 One of the most recognizable symbols of L.A. is the Hollywood Sign, which sits atop Mount Lee in the Santa Monica Mountains and spells out the word "Hollywood" in giant white letters. The sign is a symbol of the city's film and television industry, which is a major contributor to the local economy.
 
-{% include gallery id="gallery" caption="Few Pics of Los Angeles" class="full" %}
+{% include gallery id="gallery" caption="Few Pics of Los Angeles" %}
 
 L.A. is also home to many world-class museums, such as the Getty Center, the Los Angeles County Museum of Art, and the Museum of Contemporary Art. The city's vibrant art scene is further reflected in its diverse neighborhoods, each of which has its own unique character and style.
 
