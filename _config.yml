@@ -67,7 +67,7 @@ author:
       icon: "fa-solid fa-hashtag"
       url: "/post/top-50-instagram/"
     - label: "City Life"
-      icon: "fa-solid fa-tree-city"
+      icon: "fa-solid fa-hashtag"
       url: "/tags/#city"
 
 footer:

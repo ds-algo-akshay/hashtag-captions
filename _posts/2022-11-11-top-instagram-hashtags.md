@@ -74,11 +74,11 @@ Below are the top Instagram hashtags! Use them as your post's main hashtags, and
 
 **Hashtags:**
 
-#Instagram: This is the most obvious hashtag to use when sharing photos on Instagram.
-#IG: This acronym is commonly used as a shorthand for Instagram, and it's a popular hashtag to use when sharing photos and stories from the platform.
-#Instagrammers: This hashtag is a great way to connect with other users who are active on Instagram.
-#IGdaily: This hashtag is a great way to share your daily experiences on Instagram.
-#Instagrammer: This hashtag is similar to #Instagrammers, but it's used to describe a single user rather than a group.
+* #Instagram: This is the most obvious hashtag to use when sharing photos on Instagram.
+* #IG: This acronym is commonly used as a shorthand for Instagram, and it's a popular hashtag to use when sharing photos and stories from the platform.
+* #Instagrammers: This hashtag is a great way to connect with other users who are active on Instagram.
+* #IGdaily: This hashtag is a great way to share your daily experiences on Instagram.
+* #Instagrammer: This hashtag is similar to #Instagrammers, but it's used to describe a single user rather than a group.
 
 
 **Captions:**
