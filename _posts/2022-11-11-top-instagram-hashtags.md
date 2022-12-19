@@ -11,7 +11,6 @@ toc_label: "Instagram!!"
 ---
 
 ## About Instagram!!
-
 Instagram is a popular social media platform that allows users to share photos and videos with their followers. If you're looking to boost your engagement on Instagram, using the right hashtags and crafting catchy captions can be a great way to attract more likes and comments. Here are 50 hashtags and caption ideas to consider using on your Instagram posts:
 
 Below are the top Instagram hashtags! Use them as your post's main hashtags, and add a few specific hashtags as applicable.
