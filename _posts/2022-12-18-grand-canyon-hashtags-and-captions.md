@@ -12,7 +12,6 @@ toc: true
 toc_sticky: true
 ---
 ## About Grand Canyon!
-
 The Grand Canyon is a natural wonder located in Arizona, known for its breathtaking views and rugged beauty. If you're planning a visit to the Grand Canyon or just looking for some inspiration for your social media posts, here are some hashtags and captions to consider using:
 
 ## Hashtags

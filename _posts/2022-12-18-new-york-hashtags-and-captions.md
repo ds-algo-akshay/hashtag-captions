@@ -14,7 +14,6 @@ toc_label: "New York!!"
 ---
 
 ## About New York!
-
 New York City is a vibrant and diverse metropolis known for its iconic skyline, world-class museums, and endless entertainment options. If you're planning a visit to the Big Apple or just looking for some inspiration for your social media posts, here are some hashtags and captions to consider using:
 
 ## Hashtags
