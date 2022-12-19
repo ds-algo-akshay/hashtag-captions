@@ -8,8 +8,10 @@ tags:
   - hashtag
 toc: true
 toc_sticky: true
+toc_label: "Christmas!!"
 ---
 
+## About Christmas!
 Christmas is a holiday celebrated by people around the world, and it's a time for joy, celebration, and spending time with loved ones. If you're looking for some inspiration for your social media posts during the holiday season, here are some hashtags and captions to consider using:
 
 ## Hashtags
@@ -21,6 +23,7 @@ Christmas is a holiday celebrated by people around the world, and it's a time fo
 * #ChristmasTree: The Christmas tree is a central part of many holiday celebrations, and this hashtag is a great way to share photos of your tree or to find inspiration for your own decorations.
   Here are some popular hashtags for Christmas on Instagram:
 
+```markdown
 #Christmas
 #MerryChristmas
 #HappyHolidays
@@ -36,6 +39,8 @@ Christmas is a holiday celebrated by people around the world, and it's a time fo
 #ChristmasGifts
 #ChristmasDecor
 #JingleAllTheWay
+```
+
 
 Using hashtags is a great way to increase the visibility of your Instagram posts and connect with other users who are interested in the same topics. Just be sure to use relevant hashtags and avoid overusing them, as this can be seen as spammy.
 
@@ -51,7 +56,7 @@ Using hashtags is a great way to increase the visibility of your Instagram posts
 * "Spreading joy and cheer this #Christmas"
 
 
-Here are some popular Christmas Instagram captions:
+### Here are some popular Christmas Instagram captions:
 * "Merry everything and a happy always"
 * "It's the most wonderful time of the year"
 * "All is calm, all is bright"
