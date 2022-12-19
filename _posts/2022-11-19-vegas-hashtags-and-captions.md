@@ -2,12 +2,14 @@
 title: "Top Vegas Hashtags and Captions"
 permalink: /post/vegas-hashtag-and-captions/
 categories:
-  - Blog
+  - Travel
+  - City
 tags:
   - vegas
   - hashtag
 toc: true
 toc_sticky: true
+toc_label: "Vegas!!"
 ---
 
 Below are the top Vegas hashtags! Use them as your post's main hashtags, and add a few specific hashtags as applicable.

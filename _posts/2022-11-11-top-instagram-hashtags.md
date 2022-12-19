@@ -1,86 +1,88 @@
 ---
-title: "Top 50 instagram hashtags and their siblings"
+title: "Top 50 Instagram Hashtags and Captions"
 permalink: /post/top-50-instagram/
 categories:
-  - Blog
+  - Social Media
 tags:
   - instagram
-  - hashtag
 toc: true
 toc_sticky: true
+toc_label: "Instagram!!"
 ---
 
-## Instagram
+## About Instagram!!
 
 Instagram is a popular social media platform that allows users to share photos and videos with their followers. If you're looking to boost your engagement on Instagram, using the right hashtags and crafting catchy captions can be a great way to attract more likes and comments. Here are 50 hashtags and caption ideas to consider using on your Instagram posts:
 
 Below are the top Instagram hashtags! Use them as your post's main hashtags, and add a few specific hashtags as applicable.
 
 **Note:** Feel free copy and use in your posts! 
-{: .notice--info}
-
-| Hashtag              | Relevant Hashtags | Want to see more? |
-|----------------------|-------------------|-------------------|
-| **#love**            | #carlove #wife    |                   |
-| **#fashion**         |                   |                   |
-| **#photooftheday**   |                   |                   |
-| **#beautiful**       |                   |                   |
-| **#photography**     |                   |                   |
-| **#picoftheday**     |                   |                   |
-| **#happy**           |                   |                   |
-| **#follow**          |                   |                   |
-| **#nature**          |                   |                   |
-| **#tbt**             |                   |                   |
-| **#instagram**       |                   |                   |
-| **#travel**          |                   |                   |
-| **#like4like**       |                   |                   |
-| **#style**           |                   |                   |
-| **#repost**          |                   |                   |
-| **#summer**          |                   |                   |
-| **#instadaily**      |                   |                   |
-| **#selfie**          |                   |                   |
-| **#beauty**          |                   |                   |
-| **#girl**            |                   |                   |
-| **#friends**         |                   |                   |
-| **#instalike**       |                   |                   |
-| **#me**              |                   |                   |
-| **#smile**           |                   |                   |
-| **#family**          |                   |                   |
-| **#photo**           |                   |                   |
-| **#life**            |                   |                   |
-| **#likeforlike**     |                   |                   |
-| **#music**           |                   |                   |
-| **#ootd**            |                   |                   |
-| **#makeup**          |                   |                   |
-| **#follow4follow**   |                   |                   |
-| **#amazing**         |                   |                   |
-| **#igers**           |                   |                   |
-| **#nofilter**        |                   |                   |
-| **#model**           |                   |                   |
-| **#sunset**          |                   |                   |
-| **#beach**           |                   |                   |
-| **#design**          |                   |                   |
-| **#motivation**      |                   |                   |
-| **#instamood**       |                   |                   |
-| **#foodporn**        |                   |                   |
-| **#lifestyle**       |                   |                   |
-| **#followforfollow** |                   |                   |
-| **#sky**             |                   |                   |
-| **#l4l**             |                   |                   |
-| **#f4f**             |                   |                   |
-| **#handmade**        |                   |                   |
-| **#likeforlikes**    |                   |                   |
-| **#cat**             |                   |                   |
-
+{: .notice--info} 
 
 ## Hashtags:
-
 * #Instagram: This is the most obvious hashtag to use when sharing photos on Instagram.
 * #IG: This acronym is commonly used as a shorthand for Instagram, and it's a popular hashtag to use when sharing photos and stories from the platform.
 * #Instagrammers: This hashtag is a great way to connect with other users who are active on Instagram.
 * #IGdaily: This hashtag is a great way to share your daily experiences on Instagram.
 * #Instagrammer: This hashtag is similar to #Instagrammers, but it's used to describe a single user rather than a group.
 
+### Top 50 trending Instagram HashTags
+It's important to note that the most popular hashtags on Instagram can change over time, as trends and interests evolve. However, as of 2021, some of the most popular hashtags on Instagram included:
+
+```text
+#love
+#instagood
+#photooftheday
+#fashion
+#beautiful
+#happy
+#cute
+#tbt (Throwback Thursday)
+#followme
+#picoftheday
+#like4like
+#follow
+#me
+#selfie
+#summer
+#art
+#friends
+#repost
+#nature
+#girl
+#fun
+#style
+#food
+#instalike
+#likeforlike
+#family
+#travel
+#fitness
+#beauty
+#follow4follow
+#life
+#instadaily
+#igers
+#tagsforlikes
+#nofilter
+#music
+#ootd (Outfit of the Day)
+#instagram
+#photo
+#amazing
+#smile
+#followforfollow
+#bestoftheday
+#picoftheday
+#funny
+#instamood
+#healthy
+#beauty
+#instagrammer
+#goodmorning
+```
+
+Keep in mind that it's important to use hashtags that are relevant to your content and audience. Using popular hashtags that are unrelated to your content may not provide value to your followers and could potentially even harm your engagement.
 
 ## Captions:
 
@@ -179,7 +181,7 @@ Instagram is a constantly evolving platform, and what's popular on the platform 
 #Style: This hashtag is popular with users who are sharing photos of their personal style or looking for fashion inspiration.
 
 
-# All time trending hashtags
+## All time trending hashtags
 ```
 #love
 #instagood
