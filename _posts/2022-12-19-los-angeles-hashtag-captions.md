@@ -9,8 +9,11 @@ tags:
 toc_label: "Los Angeles!!"
 
 gallery:
-- url: /assets/images/city/LA1.jpg
-  image_path: /assets/images/city/LA1.jpg
+- url: /assets/images/city/LA3.jpg
+  image_path: /assets/images/city/LA3.jpg
+  title: "LA"
+- url: /assets/images/city/LA4.jpg
+  image_path: /assets/images/city/LA4.jpg
   title: "LA"
 - url: /assets/images/city/LA2.jpg
   image_path: /assets/images/city/LA2.jpg
