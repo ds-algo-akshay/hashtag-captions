@@ -6,8 +6,6 @@ categories:
 tags:
   - holidays
   - hashtag
-toc: true
-toc_sticky: true
 toc_label: "Holidays"
 ---
 

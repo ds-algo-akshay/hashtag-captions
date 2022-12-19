@@ -6,8 +6,6 @@ categories:
 tags:
   - Christmas
   - hashtag
-toc: true
-toc_sticky: true
 toc_label: "Christmas!!"
 ---
 

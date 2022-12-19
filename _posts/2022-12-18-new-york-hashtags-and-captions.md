@@ -5,11 +5,8 @@ categories:
   - Travel
   - City
 tags:
-  - newyork
+  - NewYork
   - city
-  - hashtag
-toc: true
-toc_sticky: true
 toc_label: "New York!!"
 ---
 
