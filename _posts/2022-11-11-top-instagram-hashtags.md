@@ -80,6 +80,7 @@ Below are the top Instagram hashtags! Use them as your post's main hashtags, and
 #IGdaily: This hashtag is a great way to share your daily experiences on Instagram.
 #Instagrammer: This hashtag is similar to #Instagrammers, but it's used to describe a single user rather than a group.
 
+
 **Captions:**
 
 "Feeling inspired by the creativity on #Instagram"
@@ -175,6 +176,61 @@ Instagram is a constantly evolving platform, and what's popular on the platform 
 #Art: This hashtag is popular with users who are sharing their own art or looking for inspiration from others.
 
 #Style: This hashtag is popular with users who are sharing photos of their personal style or looking for fashion inspiration.
+
+
+**All time trending hashtags**
+```
+#love
+#instagood
+#photooftheday
+#beautiful
+#fashion
+#happy
+#cute
+#tbt (Throwback Thursday)
+#followme
+#picoftheday
+#selfie
+#me
+#summer
+#friends
+#art
+#nature
+#instadaily
+#fun
+#instalike
+#follow
+#likeforlike
+#instagram
+#travel
+#food
+#fitness
+#beauty
+#family
+#life
+#sun
+#instamood
+#photo
+#followforfollow
+#goodvibes
+#repost
+#motivation
+#smile
+#instapic
+#like4like
+#instatravel
+#style
+#amazing
+#music
+#beach
+#adventure
+#relax
+#landscape
+#explore
+#photography
+#funny
+#beautyful
+```
 
 It's important to note that these hashtags are just a small sample of what's currently popular on Instagram, and what's popular can change quickly. If you're looking to increase your engagement on the platform, it's a good idea to do some research and see what hashtags are currently popular in your niche or area of interest.
 
