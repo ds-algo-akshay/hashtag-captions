@@ -17,12 +17,12 @@ Below are the top Vegas hashtags! Use them as your post's main hashtags, and add
 
 > What Happens in Vegas, Stays in Vegas!
 
-Top Hashtags
+## Top Hashtags
 ```
 #lasvegas #travel #vegas #nevada #usa #love
 #vacation #photography #travelphotography #vegasbaby #lasvegasstrip
 ```
-Hashtags:
+## Hashtags
 ```
 #VegasNightlife
 #SinCity
@@ -39,7 +39,7 @@ Hashtags:
 #VegasExperience
 ```
 
-#Las Vegas
+## Las Vegas
 
 Las Vegas, also known as Sin City, is a city in Nevada known for its vibrant nightlife, world-class entertainment, and luxury casinos. Whether you're planning a vacation or just looking for some inspiration for your social media posts, here are some hashtags and captions to consider using when sharing your Las Vegas experiences.
 
@@ -54,7 +54,7 @@ Las Vegas, also known as Sin City, is a city in Nevada known for its vibrant nig
 
 #VegasLife: This hashtag is perfect for sharing the day-to-day experiences of living in Las Vegas. Whether you're a local or just in town for a visit, use this hashtag to show off all the city has to offer.
 
-#Captions
+## Captions
 * "Feeling lucky in #SinCity"
 * "Living it up on the #VegasStrip"
 * "The bright lights of #VegasNightlife never sleep"
@@ -64,7 +64,7 @@ Las Vegas, also known as Sin City, is a city in Nevada known for its vibrant nig
 * "The entertainment capital of the world #Vegas"
 * "Viva Las Vegas! #SinCity"
 
-##Few More:
+### Few More
 * "What happens in Vegas, stays in Vegas."
 * "Vegas, baby! Living it up in Sin City."
 * "Feeling lucky in Las Vegas."
@@ -76,7 +76,7 @@ Las Vegas, also known as Sin City, is a city in Nevada known for its vibrant nig
 * "Rolling the dice in Vegas."
 * "The ultimate Vegas vacation."
 
-#Why to go to Vegas?
+## Why to go to Vegas?
 
 Las Vegas, also known as Sin City, is a popular destination for many people for a variety of reasons. Some of the main reasons to visit Vegas include:
 
@@ -94,7 +94,7 @@ Las Vegas, also known as Sin City, is a popular destination for many people for 
 
 **Conventions**: Las Vegas is a popular destination for business travelers, as it is home to many large convention centers and trade shows.
 
-#Nearby places in Vegas
+## Nearby places in Vegas
 Here are a few interesting and popular places to visit in Las Vegas:
 
 The Las Vegas Strip: This is the main boulevard in Las Vegas, and is home to many of the city's iconic hotels, casinos, and attractions.
