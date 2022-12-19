@@ -7,8 +7,6 @@ categories:
 tags:
   - vegas
   - hashtag
-toc: true
-toc_sticky: true
 toc_label: "Vegas!!"
 ---
 
