@@ -62,8 +62,8 @@ author:
   bio    : "Make your social posts more engaging, likable, and appealing.
             Use the best hashtags and captions we drafted just for your style."
   links:
-    - label: "Best Instagram Hashtag & Captions"
-      icon: "fab fa-fw fa-instagram"
+    - label: "Trending Instagram Hashtags"
+      icon: "fab fa-instagram-square"
       url: "/post/top-50-instagram/"
     - label: "Hashtag Categories"
       icon: "fas fa-gifts"
@@ -71,8 +71,9 @@ author:
     - label: "Find by Tags"
       icon: "fas fa-tags"
       url: "/tags/"
-    - label: "Please use search in top right corner. It's awesome!"
+    - label: "Use search from top right!"
       icon: "fa fa-search"
+      url: "#"
 
 footer:
   links:
