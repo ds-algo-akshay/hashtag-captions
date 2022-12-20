@@ -80,6 +80,31 @@ It's important to note that the most popular hashtags on Instagram can change ov
 #goodmorning
 ```
 
+### Now Trending HashTags
+
+Instagram is a constantly evolving platform, and what's popular on the platform can change quickly. That being said, here are a few hashtags that are currently popular on Instagram:
+
+#Love: This hashtag is always popular, and it's a great way to share photos of loved ones or special moments.
+
+#Instagram: This is the most obvious hashtag to use when sharing photos on Instagram.
+
+#FollowMe: This hashtag is often used by users looking to gain more followers on the platform.
+
+#Fitness: This hashtag is popular with users who are sharing photos and stories about their fitness journeys.
+
+#Food: This hashtag is popular with users who are sharing photos of their meals or food-related experiences.
+
+#Travel: This hashtag is popular with users who are sharing photos and stories from their travels.
+
+#Nature: This hashtag is popular with users who are sharing photos of the natural world.
+
+#Photography: This hashtag is popular with users who are sharing their own photography or looking for inspiration from others.
+
+#Art: This hashtag is popular with users who are sharing their own art or looking for inspiration from others.
+
+#Style: This hashtag is popular with users who are sharing photos of their personal style or looking for fashion inspiration.
+
+
 Keep in mind that it's important to use hashtags that are relevant to your content and audience. Using popular hashtags that are unrelated to your content may not provide value to your followers and could potentially even harm your engagement.
 
 ## Captions:
@@ -153,30 +178,6 @@ Keep in mind that it's important to use hashtags that are relevant to your conte
 "Feeling grateful for the opportunity to connect with others on #Instagram"
 
 "Finding inspiration in the beauty
-
-### Now Trending HashTags
-
-Instagram is a constantly evolving platform, and what's popular on the platform can change quickly. That being said, here are a few hashtags that are currently popular on Instagram:
-
-#Love: This hashtag is always popular, and it's a great way to share photos of loved ones or special moments.
-
-#Instagram: This is the most obvious hashtag to use when sharing photos on Instagram.
-
-#FollowMe: This hashtag is often used by users looking to gain more followers on the platform.
-
-#Fitness: This hashtag is popular with users who are sharing photos and stories about their fitness journeys.
-
-#Food: This hashtag is popular with users who are sharing photos of their meals or food-related experiences.
-
-#Travel: This hashtag is popular with users who are sharing photos and stories from their travels.
-
-#Nature: This hashtag is popular with users who are sharing photos of the natural world.
-
-#Photography: This hashtag is popular with users who are sharing their own photography or looking for inspiration from others.
-
-#Art: This hashtag is popular with users who are sharing their own art or looking for inspiration from others.
-
-#Style: This hashtag is popular with users who are sharing photos of their personal style or looking for fashion inspiration.
 
 
 ## All time trending hashtags
