@@ -59,16 +59,20 @@ plugins:
 author:
   name   : "Hashtag & Captions"
   avatar : "/assets/images/bio.jpeg"
-  bio    : "Make your social posts more engaging, likable, and appealing. 
-  
-          Use the best hashtags and captions we drafted just for your style."
+  bio    : "Make your social posts more engaging, likable, and appealing.
+            Use the best hashtags and captions we drafted just for your style."
   links:
-    - label: "Top 50 Instagram"
-      icon: "fa-solid fa-hashtag"
+    - label: "Best Instagram Hashtag & Captions"
+      icon: "fab fa-fw fa-instagram"
       url: "/post/top-50-instagram/"
-    - label: "City Life"
-      icon: "fa-solid fa-hashtag"
-      url: "/tags/#city"
+    - label: "Hashtag Categories"
+      icon: "fas fa-gifts"
+      url: "/categories/"
+    - label: "Find by Tags"
+      icon: "fas fa-tags"
+      url: "/tags/"
+    - label: "Please use search in top right corner. It's awesome!"
+      icon: "fa fa-search"
 
 footer:
   links:
